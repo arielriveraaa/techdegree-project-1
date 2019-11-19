@@ -1,2 +1,2 @@
 # Techdegree Project 1
- My third techdegree project
+ My firtst techdegree project
